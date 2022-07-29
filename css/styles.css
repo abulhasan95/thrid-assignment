@@ -11,4 +11,7 @@
     background-image: url('/images/cover/cover-1.png');
 }
 
-.started {}
+.course-img {
+    width: 400px;
+    height: 400px;
+}
