@@ -1,3 +1,14 @@
 .big-banner {
     background-image: url('/images/cover/cover-1.png');
+
 }
+
+.cover-banner {
+    background-image: url('/images/cover/cover-2.jpg');
+}
+
+.cover-photo {
+    background-image: url('/images/cover/cover-1.png');
+}
+
+.started {}
